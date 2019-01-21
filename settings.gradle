@@ -1,4 +1,2 @@
-rootProject.name = 'simpler-jackson-adapter'
+rootProject.name = 'simpler-jacksonadapter'
 
-include ':simpler'
-project(':simpler').projectDir = new File(settingsDir, "../simpler")
